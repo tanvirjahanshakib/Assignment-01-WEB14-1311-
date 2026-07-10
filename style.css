@@ -56,7 +56,7 @@ body {
 
 .hero {
 
-    width: 100;
+    width: 100%;
     height: 776px;
 
     background: url("./images/banner.jpg") center center/cover no-repeat;
@@ -307,138 +307,135 @@ body {
 }
 
 
-.pricing{
+.pricing {
 
     padding: 20px 8%;
-    background:#fff;
+    background: #fff;
 
 }
 
-.pricing-title{
+.pricing-title {
 
-    text-align:center;
-    margin-bottom:60px;
-
-}
-
-.pricing-title h2{
-
-    font-size:55px;
-    margin-bottom:15px;
-    color:#111827;
+    text-align: center;
+    margin-bottom: 60px;
 
 }
 
-.pricing-title p{
+.pricing-title h2 {
 
-    color:#6b7280;
-    font-size:18px;
-
-}
-
-.pricing-cards{
-
-    display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
-    gap:30px;
+    font-size: 55px;
+    margin-bottom: 15px;
+    color: #111827;
 
 }
 
-.card{
+.pricing-title p {
 
-    background:#fff;
-
-    border:1px solid #e5e7eb;
-
-    border-radius:18px;
-
-    padding:40px;
-
-    position:relative;
-
-    transition:.3s;
+    color: #6b7280;
+    font-size: 18px;
 
 }
 
-.card:hover{
+.pricing-cards {
 
-    transform:translateY(-10px);
-
-}
-
-.card h5{
-
-    color:#2563eb;
-    letter-spacing:1px;
-    margin-bottom:15px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
 
 }
 
-.card h1{
+.card {
 
-    font-size:55px;
-    margin-bottom:10px;
+    background: #fff;
 
-}
+    border: 1px solid #e5e7eb;
 
-.card span{
+    border-radius: 18px;
 
-    color:#6b7280;
+    padding: 40px;
 
-}
+    position: relative;
 
-.card ul{
-
-    list-style:none;
-
-    margin:35px 0;
+    transition: .3s;
 
 }
 
-.card ul li{
+.card:hover {
 
-    margin:15px 0;
-    color:#374151;
-
-}
-
-.card button{
-
-    width:100%;
-    padding:15px;
-
-    border:none;
-
-    background:#2563eb;
-
-    color:#fff;
-
-    border-radius:8px;
-
-    font-size:16px;
-
-    cursor:pointer;
+    transform: translateY(-10px);
 
 }
 
-.card button:hover{
+.card h5 {
 
-    background:#1d4ed8;
+    color: #2563eb;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
 
 }
 
-.active{
+.card h1 {
 
-    background:#111827;
+    font-size: 55px;
+    margin-bottom: 10px;
 
-    color:#fff;
+}
+
+.card span {
+
+    color: #6b7280;
+
+}
+
+.card ul {
+
+    list-style: none;
+
+    margin: 35px 0;
+
+}
+
+.card ul li {
+
+    margin: 15px 0;
+    color: #374151;
+
+}
+
+.card button {
+
+    width: 100%;
+    padding: 15px;
+
+    border: none;
+
+    background: #2563eb;
+
+    color: #fff;
+
+    border-radius: 8px;
+
+    font-size: 16px;
+
+    cursor: pointer;
+
+}
+
+.card button:hover {
+
+    background: #1d4ed8;
+
+}
+
+.active {
+
+    background: #111827;
+
+    color: #fff;
 
 }
 
 .active span,
 .active ul li{
-
     color:#d1d5db;
-
 }
-
