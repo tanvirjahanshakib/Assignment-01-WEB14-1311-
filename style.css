@@ -53,13 +53,16 @@ body{
     background:#fff;
 }
 
-
+/* #banner-img{
+    width:100%;
+    height:100%;
+    object-fit:cover; */
 .hero{
 
     width: 100;
     height:776px;
 
-    background:url("images/banner.jpg") center center/cover no-repeat;
+    background:url("./images/banner.jpg") center center/cover no-repeat;
 
     position:relative;
 
