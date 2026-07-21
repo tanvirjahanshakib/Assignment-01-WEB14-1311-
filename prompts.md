@@ -5,10 +5,10 @@ The website has a clean, modern design with a dark hero section, blue primary bu
 Section title: Register Your Interest
 Subtitle: Tell us about yourself, and our team will send you updates about tickets, workshops, and conference details.
 Include form fields:
-•	Full Name
-•	Email Address
-•	Company or Organization
-•	Job Title
+•	Full Name:
+•	Email Address:
+•	Company or Organization:
+•	Job Title:
 •	Interest Area (dropdown)
 •	Ticket Type (dropdown)
 •	Message or Special Requirements
