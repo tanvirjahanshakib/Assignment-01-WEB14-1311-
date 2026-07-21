@@ -1,3 +1,4 @@
+This is my prompt
 Hi, I was learning basic frontend developing, html and CSS now I was making a website named DevConf 2026. I make a navigation bar, hero section, grid section & pricing section.
 Your role is to help me as an assistant developer. You will provide me a modern and professional Registration / Contact Form section for the DEVCONF 2026 developer conference landing page.
 The website has a clean, modern design with a dark hero section, blue primary buttons, speaker cards, and pricing cards. The new section should match this design style similarly.
